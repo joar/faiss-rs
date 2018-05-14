@@ -10,6 +10,7 @@ addons:
       - liblapack-dev
 
 rust:
+  - 1.18.0
   - stable
   - beta
   - nightly
